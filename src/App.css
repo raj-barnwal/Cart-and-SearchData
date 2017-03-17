@@ -1,0 +1,95 @@
+h1 {
+    padding-top: 20px;
+    margin-left: 400px;
+    color: navy;
+}
+
+#inputcontainer {
+    margin: 30px 0px 30px 400px;
+
+}
+
+#inputbox {
+    height: 30px;
+    width: 520px;
+    border-radius: 2px;
+    font-weight: bold;
+    border: 2px solid blue;
+}
+
+#errorMsg {
+    color: red;
+}
+
+span{
+    font-weight: bold;
+    font-size: larger;
+    padding-left:20px;
+}
+
+span:hover {
+    color: red;
+}
+
+#del {
+    color: red;
+}
+#itemlist {
+    margin-left: 400px;
+    width: 40%;
+}
+#itemlist tr{
+    border: 2px solid blue;
+    height: 30px;
+}
+caption {
+    text-align: center;
+    color: navy;
+    font-weight: bold;
+    font-size: large;
+}
+
+h4 {
+    color: red;
+}
+
+#totalvalue {
+    background-color: navy;
+    color: white;
+    font-weight: bold;
+    padding: 5px 0px 0px 5px;
+    margin: 20px 0px 0px 400px;
+    width: 40%;
+    height: 30px;
+}
+
+#totalamount {
+    width: 100%;
+}
+
+#search{
+    margin-top:50px;
+    text-align: center;
+}
+#searchInput{
+    margin:40px 0px 0px 400px;
+    width: 520px;
+    height: 40px;
+    border-radius:5px;
+    border:2px solid blue;
+
+
+}
+
+#urltable{
+    margin-top:50px;
+    margin-left: 400px;
+    border: 2px solid blue;
+    width: 40%;
+}
+#urltable tr{
+    height: 30px;
+}
+#urltable th{
+    border-bottom: 2px solid black;
+}
